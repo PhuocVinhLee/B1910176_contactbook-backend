@@ -2,7 +2,7 @@
   "name": "contactbook-backend",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
+  "script": {
     "start": "nodemon server.js"
   },
   "author": "",
